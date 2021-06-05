@@ -1,11 +1,12 @@
 body {
   text-align: center;
+  background-color: rgb(26, 0, 26);
 }
 
 h1 {
   color: lavender;
 }
 
-p, li, {
-  color: blue;
+p, li, button {
+  color: white;
 }
